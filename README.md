@@ -47,7 +47,7 @@ To run these files, you will need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Abubakar0011/LangGraph_Practice.git](https://github.com/Abubakar0011/LangGraph_Practice.git) 
+    git clone [https://github.com/Abubakar0011/Agent_using_OpenAI.git](https://github.com/Abubakar0011/Agent_using_OpenAI.git) 
     cd LangGraph_Practice
     ```
 
